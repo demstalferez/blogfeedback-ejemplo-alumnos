@@ -36,6 +36,38 @@ El proyecto incluye la experimentación con varios modelos de regresión para pr
 
 Se realizó un preprocesamiento de los datos, incluido el escalado de características. Luego, se entrenó cada modelo utilizando el conjunto de entrenamiento y se evaluó su rendimiento utilizando métricas como el error cuadrático medio y el R2 score. Además, se visualizaron los resultados mediante gráficos.
 
+## Gráficos de Resultados
+
+### Resumen de los Modelos
+
+![Resumen de los Modelos](img/resultados.png)
+
+### Gráficos de Dispersión por Modelo
+
+
+![Modelo 1](img/1.png)
+
+
+![Modelo 2](img/2.png)
+
+
+![Modelo 3](img/3.png)
+
+
+![Modelo 4](img/4.png)
+
+
+![Modelo 5](img/5.png)
+
+
+![Modelo 6](img/6.png)
+
+
+![Modelo 7](img/7.png)
+
+
+![Modelo 8](img/8.png)
+
 ## Contribuciones
 
 Las contribuciones a este proyecto son bienvenidas. Si encuentras algún error o tienes alguna sugerencia de mejora, no dudes en abrir un Issue o enviar un Pull Request.
