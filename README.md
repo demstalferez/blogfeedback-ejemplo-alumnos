@@ -18,9 +18,8 @@ El conjunto de datos incluye características como el número total de comentari
 
 ## Estructura del Proyecto
 
-- `datos/` - Directorio que contiene los archivos CSV del conjunto de datos.
-- `prediccion_comentarios_blog.ipynb` - Notebook que contiene el código principal del proyecto.
-- `README.md` - Archivo de documentación con información sobre el proyecto.
+- `data/` - Directorio que contiene los archivos CSV del conjunto de datos.
+- `blog.ipynb` - Notebook que contiene el código principal del proyecto.
 
 ## Detalles de Implementación
 
